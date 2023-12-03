@@ -1,5 +1,5 @@
 # design-patterns
-everyone that exists
+everyone that exists...
 
 # Design Patterns Across Languages
 
