@@ -3,7 +3,6 @@ everyone that exists...
 
 # Design Patterns Across Languages
 
-Hey coders! 👋,
 
 I'm exploring design patterns in various languages—Go, C, C++, Java, JavaScript, C#, Python, Lua, Rust, Scala. The focus? It's all about ideas, not the language specifics.
 
